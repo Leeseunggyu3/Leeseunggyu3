@@ -6,5 +6,7 @@
 
 ![Leeseunggyu3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeseunggyu3&show_icons=true&theme=tokyonight)
 
+<img src="https://img.shields.io/badge/C#-#512BD4?style=for-the-badge&logo=C#&logoColor=Purple">
+
 
     🌱 I’m currently learning GameProgramming(C#,Unity)
