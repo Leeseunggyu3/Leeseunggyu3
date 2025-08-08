@@ -1,7 +1,7 @@
 **Leeseunggyu3/Leeseunggyu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    Hello I'm interested in gamedevelop, and making some gameassets.
-    I'm looking one man gamedev.
+    Hello I'm interested in GameDevelop, and making some Assets for Game.
+    I'm looking one man GameDev.
 ![Leeseunggyu3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeseunggyu3&show_icons=true&theme=tokyonight)
 
 <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat&logoColor=Purple">
